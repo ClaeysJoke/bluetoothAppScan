@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Workspaces\\BluetoothLeGatt1 - Copy\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Workspaces\\bluetoothAppScan\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Workspaces\\BluetoothLeGatt1 - Copy\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "source": "C:\\Workspaces\\bluetoothAppScan\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",

@@ -1,4 +1,4 @@
-#Wed May 27 21:03:34 CEST 2020
-base.0=C\:\\Workspaces\\BluetoothLeGatt1 - Copy\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+#Thu May 28 13:30:12 CEST 2020
+base.0=C\:\\Workspaces\\bluetoothAppScan\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Workspaces\\BluetoothLeGatt1 - Copy\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Workspaces\\bluetoothAppScan\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Workspaces\\BluetoothLeGatt1 - Copy\\Application\\src\\main\\res\\values\\template-dimens.xml",
-                    "from": {
-                        "startLines": "28,24,23,22,21,20,29",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "959,880,836,791,748,706,1029",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "1024,918,875,831,786,743,1092"
-                    },
-                    "to": {
-                        "startLines": "172,173,174,175,176,177,205",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "11780,11850,11893,11937,11982,12025,13710",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "11845,11888,11932,11977,12020,12062,13773"
-                    }
-                },
                 {
                     "source": "C:\\Users\\jokeclaeys\\.gradle\\caches\\transforms-2\\files-2.1\\1b8443262c3e86b61e02baa37e5164ca\\res\\values\\values.xml",
                     "from": {
@@ -37,6 +20,25 @@
                         "endLines": "3,1797,2529,2618",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "213,120306,160094,165305"
+                    }
+                },
+                {
+                    "source": "C:\\Workspaces\\bluetoothAppScan\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "768,651,713,849,878,1075",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "815,707,762,872,1069,1348"
+                    },
+                    "to": {
+                        "startLines": "303,1679,1680,1688,1785,1789",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "19540,111171,111231,111956,119692,119888",
+                        "endLines": "303,1679,1680,1688,1788,1794",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "19586,111226,111279,111978,119883,120161"
                     }
                 },
                 {
@@ -97,7 +99,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Workspaces\\BluetoothLeGatt1 - Copy\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "source": "C:\\Workspaces\\bluetoothAppScan\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "959,880,836,791,748,706,1029",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1024,918,875,831,786,743,1092"
+                    },
+                    "to": {
+                        "startLines": "172,173,174,175,176,177,205",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "11780,11850,11893,11937,11982,12025,13710",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "11845,11888,11932,11977,12020,12062,13773"
+                    }
+                },
+                {
+                    "source": "C:\\Workspaces\\bluetoothAppScan\\Application\\src\\main\\res\\values\\base-strings.xml",
                     "from": {
                         "startLines": "18,19",
                         "startColumns": "4,4",
@@ -113,23 +132,6 @@
                         "endLines": "269,283",
                         "endColumns": "52,13",
                         "endOffsets": "17800,18328"
-                    }
-                },
-                {
-                    "source": "C:\\Workspaces\\BluetoothLeGatt1 - Copy\\Application\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "16,21,22,24,17,18,19,31,32,33,34,20,23,27,26,28",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "686,954,1002,1114,753,798,863,1415,1464,1519,1562,910,1056,1256,1198,1330",
-                        "endColumns": "66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
-                        "endOffsets": "748,997,1051,1192,793,858,905,1459,1514,1557,1600,949,1109,1325,1251,1385"
-                    },
-                    "to": {
-                        "startLines": "270,271,272,273,284,285,286,287,288,289,290,291,294,295,296,297",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "17805,17872,17920,17974,18333,18378,18443,18490,18539,18594,18637,18680,18848,18906,18980,19038",
-                        "endColumns": "66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
-                        "endOffsets": "17867,17915,17969,18052,18373,18438,18485,18534,18589,18632,18675,18719,18901,18975,19033,19093"
                     }
                 },
                 {
@@ -150,22 +152,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Workspaces\\BluetoothLeGatt1 - Copy\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "source": "C:\\Workspaces\\bluetoothAppScan\\Application\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "24,20,22,27,29,34",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "768,651,713,849,878,1075",
-                        "endLines": "24,20,22,27,32,39",
-                        "endColumns": "51,60,53,27,12,12",
-                        "endOffsets": "815,707,762,872,1069,1348"
+                        "startLines": "16,21,22,24,17,18,19,31,32,33,34,20,23,27,26,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "686,954,1002,1114,753,798,863,1415,1464,1519,1562,910,1056,1256,1198,1330",
+                        "endColumns": "66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
+                        "endOffsets": "748,997,1051,1192,793,858,905,1459,1514,1557,1600,949,1109,1325,1251,1385"
                     },
                     "to": {
-                        "startLines": "303,1679,1680,1688,1785,1789",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "19540,111171,111231,111956,119692,119888",
-                        "endLines": "303,1679,1680,1688,1788,1794",
-                        "endColumns": "50,59,52,26,12,12",
-                        "endOffsets": "19586,111226,111279,111978,119883,120161"
+                        "startLines": "270,271,272,273,284,285,286,287,288,289,290,291,294,295,296,297",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17805,17872,17920,17974,18333,18378,18443,18490,18539,18594,18637,18680,18848,18906,18980,19038",
+                        "endColumns": "66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
+                        "endOffsets": "17867,17915,17969,18052,18373,18438,18485,18534,18589,18632,18675,18719,18901,18975,19033,19093"
                     }
                 }
             ]

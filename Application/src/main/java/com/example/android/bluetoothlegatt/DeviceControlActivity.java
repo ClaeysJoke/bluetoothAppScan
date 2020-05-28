@@ -26,8 +26,10 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.ServiceConnection;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.IBinder;
+import android.support.annotation.RequiresApi;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -95,6 +97,7 @@ public class DeviceControlActivity extends Activity {
     // ACTION_DATA_AVAILABLE: received data from the device.  This can be a result of read
     //                        or notification operations.
     private final BroadcastReceiver mGattUpdateReceiver = new BroadcastReceiver() {
+        @RequiresApi(api = Build.VERSION_CODES.HONEYCOMB)
         @Override
         public void onReceive(Context context, Intent intent) {
             final String action = intent.getAction();
@@ -116,6 +119,7 @@ public class DeviceControlActivity extends Activity {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
+
             } else if (BluetoothLeService.ACTION_DATA_AVAILABLE.equals(action)) {
                 displayData(intent.getStringExtra(BluetoothLeService.EXTRA_DATA));
             }

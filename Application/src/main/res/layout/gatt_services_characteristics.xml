@@ -19,6 +19,12 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp">
 
+    <TextView
+        android:id="@+id/degrees_id"
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:text="TextView" />
+
     <Button
         android:id="@+id/button_for_cccd"
         android:layout_width="match_parent"

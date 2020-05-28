@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Workspaces\\BluetoothLeGatt1 - Copy\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Workspaces\\bluetoothAppScan\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jokeclaeys\\.gradle\\caches\\transforms-2\\files-2.1\\5f8dfcbdca3e7b68eb4f20d9714bcde5\\res\\values-night-v8\\values-night-v8.xml",

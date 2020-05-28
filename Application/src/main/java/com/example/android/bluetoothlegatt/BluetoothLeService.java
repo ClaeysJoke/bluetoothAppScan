@@ -31,7 +31,7 @@ import android.content.Intent;
 import android.os.Binder;
 import android.os.IBinder;
 import android.util.Log;
-
+import android.widget.TextView;
 import java.util.Arrays;
 import java.util.BitSet;
 import java.util.List;
@@ -159,14 +159,10 @@ public class BluetoothLeService extends Service {
                 byte[] dataForTemperature = Arrays.copyOfRange(data, 1, 5);
                 Log.d("bit","temperature is:"+readHealthFloat32(dataForTemperature));
                 for(byte byteChar : data){
-                    Log.d("byte","byte is:" + byteChar);
                     BitSet bits=fromByte(byteChar);
-                    Log.d("bit","bit 0 is:" + bits.get(0));
-                    Log.d("bit","bit 1 is:" + bits.get(1));
-                    Log.d("bit","bit 2 is:" + bits.get(2));
                     stringBuilder.append(String.format("%02X ", byteChar));
                 }
-                intent.putExtra(EXTRA_DATA, new String(data) + "\n" + stringBuilder.toString());
+                intent.putExtra(EXTRA_DATA, "temperature is:"+readHealthFloat32(dataForTemperature));
             }
         }
         sendBroadcast(intent);

@@ -668,6 +668,7 @@ id customPanel
 id data_value
 id decor_content_parent
 id default_activity_button
+id degrees_id
 id device_address
 id device_name
 id disableHome

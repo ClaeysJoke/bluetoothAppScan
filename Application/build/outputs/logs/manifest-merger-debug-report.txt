@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:20:1-53:12
-INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:20:1-53:12
-INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:20:1-53:12
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:20:1-53:12
+INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:20:1-53:12
+INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:20:1-53:12
 MERGED from [com.android.support:support-v13:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\a0e55b6829cf470494c9e596bfc38319\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\2e0edd8b98b6c71abacc9409d97aae17\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\c9d077583cf4e9257b444a91f9a8d2dc\AndroidManifest.xml:17:1-22:12
@@ -33,44 +33,44 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jokeclaeys\.gradle
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\d0c3531df25de5bde726de98444315ba\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\721d2355489722afbb83e9f8563b0a74\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\e58db56577d851215277f80584760863\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:20:1-53:12
-INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:20:1-53:12
+INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:20:1-53:12
+INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:20:1-53:12
 	package
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:21:5-50
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:21:5-50
 	android:versionName
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:23:5-30
-		INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:20:11-69
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:20:11-69
 	android:versionCode
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:22:5-28
-		INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
 uses-feature#android.hardware.bluetooth_le
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:31:5-89
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:31:5-89
 	android:required
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:31:64-87
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:31:64-87
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:31:19-63
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:31:19-63
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:33:5-67
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:33:5-67
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:33:22-65
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:33:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:34:5-73
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:34:5-73
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:34:22-71
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:34:22-71
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:36:5-78
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:36:5-78
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:36:22-76
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:36:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:37:1-76
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:37:1-76
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:37:18-74
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:37:18-74
 application
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:39:5-51:19
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:39:5-51:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\4272dbe63f9a42c03bd48ad1de344259\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\4272dbe63f9a42c03bd48ad1de344259\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\74fa7e72baf275c5d21ab877f9aff0f9\AndroidManifest.xml:22:5-23:19
@@ -78,41 +78,41 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jokeclaeys
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\4272dbe63f9a42c03bd48ad1de344259\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:39:18-50
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:39:18-50
 	android:icon
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:40:9-45
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:40:9-45
 	android:theme
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:41:9-56
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:41:9-56
 activity#com.example.android.bluetoothlegatt.DeviceScanActivity
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:42:9-48:20
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:42:9-48:20
 	android:label
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:43:13-45
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:43:13-45
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:42:19-53
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:42:19-53
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:44:13-47:29
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:44:13-47:29
 action#android.intent.action.MAIN
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:45:17-68
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:45:17-68
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:45:25-66
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:46:17-76
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:46:17-76
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:46:27-74
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:46:27-74
 activity#com.example.android.bluetoothlegatt.DeviceControlActivity
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:49:9-58
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:49:9-58
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:49:19-56
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:49:19-56
 service#com.example.android.bluetoothlegatt.BluetoothLeService
-ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:50:9-77
+ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:50:9-77
 	android:enabled
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:50:53-75
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:50:53-75
 	android:name
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml:50:18-52
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml:50:18-52
 uses-sdk
-INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
-INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
 MERGED from [com.android.support:support-v13:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\a0e55b6829cf470494c9e596bfc38319\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v13:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\a0e55b6829cf470494c9e596bfc38319\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\2e0edd8b98b6c71abacc9409d97aae17\AndroidManifest.xml:20:5-44
@@ -173,13 +173,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jokeclaeys\.gr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\721d2355489722afbb83e9f8563b0a74\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\e58db56577d851215277f80584760863\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jokeclaeys\.gradle\caches\transforms-2\files-2.1\e58db56577d851215277f80584760863\AndroidManifest.xml:20:5-44
-INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
-INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
-		ADDED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Workspaces\BluetoothLeGatt1 - Copy\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspaces\bluetoothAppScan\Application\src\main\AndroidManifest.xml
